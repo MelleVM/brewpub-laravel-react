@@ -9,6 +9,6 @@ ReactDOM.render(
     <Router>
       <App />
     </Router>
-  </ContextProvider>, document.getElementById("app")
+  </ContextProvider>, document.getElementById("app") 
 );
 

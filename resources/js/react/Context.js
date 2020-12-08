@@ -13,7 +13,7 @@ function ContextProvider(props) {
     const notify = (type, message) => toast(message, {
         position: "top-right", 
         hideProgressBar: false,
-        closeOnClick: true,
+        closeOnClick: true, 
         pauseOnHover: true,
         draggable: true,
         progress: undefined, 

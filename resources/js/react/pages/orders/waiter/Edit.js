@@ -34,7 +34,7 @@ function Edit() {
             })
             .catch((error) => {
                 console.log(error);
-            })
+            }) 
     }
 
     function increment(id) {
