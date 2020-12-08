@@ -56063,7 +56063,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
 var Context = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createContext();
 var settings = {
-  API_URL: "http://localhost:8000"
+  API_URL: "https://mysterious-inlet-16244.herokuapp.com"
 };
 
 function ContextProvider(props) {
