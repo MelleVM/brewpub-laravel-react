@@ -13,6 +13,25 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        // \App\Models\User::factory(10)->create();
+        DB::table('tables')->insert(
+            [
+            'number' => 'T1'
+            ],
+            [
+            'number' => 'T2'
+            ],
+            [
+            'number' => 'T3'
+            ],
+            [
+            'number' => 'T4'
+            ],
+            [
+            'number' => 'T5'
+            ],
+            [
+            'number' => 'T6'
+            ]
+        );
     }
 }
