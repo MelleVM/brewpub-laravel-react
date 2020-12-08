@@ -20,23 +20,11 @@ class TableController extends Controller
 
     public function store(Request $request)
     {
-        $validatedData = $request->validate(['table_id' => 'required', 'employee_id' => 'required', 'products' => 'required']);
+        $validatedData = $request->validate(['number' => 'required']);
 
         $table = Table::create([
-            'table_id' => $validatedData['table_id'],
-            'employee_id' => $validatedData['employee_id']
+            'number' => $validatedData['number']
         ]);
-
-        foreach($validatedData['products'] as $prod) {
-            if(isset($prod['id'])) {
-                $product = Product::find($prod['id']);
-            }
-            $quantity = $prod['quantity'];
-
-            if(isset($product)) {
-                $table->products()->attach($product, ['quantity' => $quantity]);
-            }
-        }
 
         return response()->json($table);
     }
