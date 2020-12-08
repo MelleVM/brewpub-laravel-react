@@ -304,8 +304,8 @@ body {
     justify-content: center;
     position: fixed;
     border-radius: 50%;
-    right: 25px;
-    bottom: 25px;
+    right: 20px;
+    bottom: 20px;
     background-color: $yellow;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.05),
     2px 2px 5px rgba(0, 0, 0, 0.1);
@@ -333,9 +333,6 @@ body {
         transform: scale(1.1);
     }
 }
-
-
-
 
 ::-webkit-scrollbar {
     width: 5px;
