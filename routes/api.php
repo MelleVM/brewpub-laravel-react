@@ -27,6 +27,9 @@ Route::group(['middleware' => 'api'], function () {
     Route::delete('orders/{id}', 'App\Http\Controllers\OrderController@delete')->name('orders.delete');
     Route::post('orders', 'App\Http\Controllers\OrderController@store')->name('orders.create');
     Route::put('orders/{id}', 'App\Http\Controllers\OrderController@update')->name('products.update');
+    
+    // tables routes
 
     Route::get('tables', 'App\Http\Controllers\TableController@index')->name('tables');
+    Route::post('tables', 'App\Http\Controllers\TableController@store')->name('tables.create');
 });
