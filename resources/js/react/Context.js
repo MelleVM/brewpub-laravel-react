@@ -3,7 +3,7 @@ import {toast} from 'react-toastify';
 import axios from "axios"
 
 const Context = React.createContext() 
-const settings = {API_URL: "http://localhost:8000"} 
+const settings = {API_URL: "https://mysterious-inlet-16244.herokuapp.com"} 
 
 function ContextProvider(props) {
     const [products, setProducts] = useState()
