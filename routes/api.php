@@ -36,4 +36,8 @@ Route::group(['middleware' => 'api'], function () {
     // employees routes
 
     Route::post('employees', 'App\Http\Controllers\EmployeeController@store')->name('employees.create');
+
+    // roles routes
+
+    Route::post('roles', 'App\Http\Controllers\RoleController@store')->name('roles.create');
 });
