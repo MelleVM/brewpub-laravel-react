@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/insert-json-file-to-database-table', function(){
-	$json = file_get_contents('public/storage/images/db.json');
+	$json = file_get_contents('storage/app/public/images/db.json');
 	$objs = json_decode($json,true);
 	foreach ($objs as $obj)  {	
 		foreach ($obj as $key => $value) {
