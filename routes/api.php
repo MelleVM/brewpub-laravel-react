@@ -32,4 +32,8 @@ Route::group(['middleware' => 'api'], function () {
 
     Route::get('tables', 'App\Http\Controllers\TableController@index')->name('tables');
     Route::post('tables', 'App\Http\Controllers\TableController@store')->name('tables.create');
+
+    // employees routes
+
+    Route::post('employees', 'App\Http\Controllers\EmployeeController@store')->name('employees.create');
 });
