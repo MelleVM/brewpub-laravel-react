@@ -20,12 +20,16 @@ class EmployeeController extends Controller
 
     public function store(Request $request)
     {
-        $validatedData = $request->validate(['name' => 'required']);
+        $validatedData = $request->validate(['name' => 'required', 'role_id' => 'required']);
 
         $employee = new Employee();
 
         if(isset($validatedData['name'])) {
             $employee->name = $validatedData['name'];
+        }
+
+        if(isset($validatedData['role_id'])) {
+            $employee->role_id = $validatedData['role_id'];
         }
 
         $employee->save();
