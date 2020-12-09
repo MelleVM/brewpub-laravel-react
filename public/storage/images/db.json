@@ -1,0 +1,1482 @@
+[{
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "6f3f706b414859467a3272d85b5ef5eefa007d22",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "26",
+        "name": "Chamomellow",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Chamomellow is an herbal golden ale infused with chamomile, which provides an enticing floral aroma. Chamomile is one of the oldest garden herbs used by ancient Egyptians and other cultures to battle illness, promote calm and relieve anxiety, hence the name Chamomellow. Dedicated to Caleb McLoughlin, a revolutionary brewer who created this elixir at Rogues Issaquah Brewhouse and won a Gold medal in the Herbs & Spice category at the 2003 Great American Beer Festival.\n\n\nChamemollow is created from Northwest Harrington and Klages, and Maier Munich Malts (18% speciality grains, .19 lbs grain per bottle). Kent Golding and Cascade hops, and infused with Chamomile. Available in a limited edition 22-ounce bottles (originally as Test Batch 1 - Gold Medal Series), and on draft at Rogues six Public Houses.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Pale Ale",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4200",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "a4becfa322cc1455048a9197e9e2426c5204a749",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "33",
+        "name": "Santas Private Reserve",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Rogues annual holiday offering, Santas Private Reserve, is a variation of the classic Saint Rogue Red, but with double the hops--including Chinook, and Centennial, and a mystery hop called Rudolph by head brewer John \"more hops\" Maier!This holiday elixir is brewed with two-row Harrington, Klages and Munich malts, along with Hugh Baird 30-37, Carastan 13-17, and Crystal 70-80 malts, plus free range coastal water and Johns proprietary top-fermenting Pacman yeast. Available in both 22-ounce bottles, 12oz Loose packs for Winter 2005, and 12oz six packs for 2006.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Amber/Red Ale",
+        "abv": 6.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4192",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "01a2a0875a062699408549438e0126b4d21fe03a",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "32",
+        "name": "Ten Thousand Brew Ale",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Brew 10,000: One Brewer, Eighteen Years, Ten-Thousand Batches of Beer. \n\n\nBrew 10,000 is not so much a style of beer, rather it is a new recipe using some of the best ingredients John Maier has ever brewed with... Vienna, French Special Aroma, and Maris Otter Pale Malts; Yakima Summit and German Saphir Hops, Free-range Coastal Waters, and PacMan Yeast. \n\n\nBrew 10,000 was brewed only once, so its allocated and very, very limited. Its packaged in the swing-top 750-ml ceramic bottle and available only at select retailers. Note, Brew 10,000 was sold out at the brewery in early 2007, however, very limited amounts may still available in the retail trade, email Schuyler@rogue.com for a retailer near you.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Imperial or Double India Pale Ale",
+        "abv": 10.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4196",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "de37843bc7a618fc3a6d5c68e031d5b24cfef377",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "33",
+        "name": "Red Fox",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Amber/Red Ale",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4194",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "0dcd2e41a61b692ae245528cdaa0550c53f7e1a7",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "91",
+        "name": "Dead Guy Ale",
+        "country": "United States",
+        "cat_id": "7",
+        "brewery_id": "1072",
+        "descript": "Gratefully dedicated to the Rogue in each of us. In the early 1990s Dead Guy Ale was created as a private tap sticker to celebrate the Mayan Day of the Dead (November 1st, All Souls Day) for Casa U Betcha in Portland, Oregon. The Dead Guy design proved popular and was incorporated into a bottled product a few years later with Maierbock as the elixir. Strangely, the association with the Grateful Dead is pure coincidence.\n\n\nDead Guy is a German-style Maibock made with Rogues proprietary \"PacMan\" ale yeast. It is deep honey in color with a malty aroma, rich hearty flavor and a well balanced finish. Dead Guy is created from Northwest Harrington, Klages, Maier Munich and Carastan malts, along with Perle and Saaz Hops. Dead Guy Ale is available in 22-ounce bottles, 12-ounce 6-pack, and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "German Lager",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "German-Style Heller Bock/Maibock",
+        "abv": 6.5,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4172",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "46af8bdb262dcd1a09eeef5fe77973d491fcb53b",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "38",
+        "name": "Hazelnut Brown Nectar",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "HazelNut Brown Nectar is a nutty twist to a traditional European Brown Ale. Dark brown in color with a hazelnut aroma, a rich nutty flavor and a smooth malty finish. Dedicated to the homebrewer in each of us--the homebrewer who inspired this creation is Chris Studach, a friend of Rogues resident wizard John Maier, who added a Northwest twist to the classic style by adding hazelnuts for the host homebrew at the 1993 American Homebrewers Association convention. Chris put the nut in nut brown!\n\n\nHazelnut Brown Nectar Ale is a blend of Great Western 2-row Pale, Munich, Hugh Baird Brown, Crystal 80 and Crystal 135, Carastan, and Beeston Pale Chocolate malts; hazelnut extract; Perle and Saaz hops. HazelNut Brown Nectar is available in a 22-ounce bottle, a special commemorative 3-litre bottle with ceramic swing-top, and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Brown Ale",
+        "abv": 6.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4179",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "1627a62246533bc4e15a2c7da81d287b3745d719",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "72",
+        "name": "Golden Frog",
+        "country": "United States",
+        "cat_id": "5",
+        "brewery_id": "1072",
+        "descript": "A Belgian - Style Pale Ale.  The Belgian yeast produces flavors of cloves, banana, and other spices that meld perfectly with the malt and hops.  Ingredients: Pilsner Malt, Saaz Hops, Blegian Yeast, Free Range Cascade Water.\n\nNo Chemicals, Additives or Preservatives.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Belgian and French Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Other Belgian-Style Ales",
+        "abv": 6.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4203",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "87116edb9a8cfdd1a09ff34a87f6bab534fa06a2",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "31",
+        "name": "Trafalgar IPA",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Let Battle Commence... Trafalgar is a Gold Medal Award winning bottle conditioned India Pale Ale brewed to a 19th Century recipe. Listed in the Top 500 Ales in the World, Trafalgar measures 6% ABV. Brewed in the Royal Forest of Dean at Freeminer Brewery in the UK and distributed by Rogue Ales in the US.\n\n\nTrafalgar IPA is a true India Pale Ale, brewed to an original 19th Century recipe. IPA's were brewed at high APV and heavily hopped to enable their preservation on the long journey to the colonies from England. This Ale is brewed from the oldest working traditional floor maltings in Warminster, Wiltshire. The hops are traditional \"Goldings\" variety grown around Ledbury, Herefordshire as they have been for centuries.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style India Pale Ale",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4212",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "c1b3f47603d3927a6db81de90532b52b30fbb084",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "95",
+        "name": "Artisan Lager",
+        "country": "United States",
+        "cat_id": "8",
+        "brewery_id": "1072",
+        "descript": "A vienna style lager",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Lager",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Lager",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4174",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "0b20094c3b1d07aa0d2591ed8314d373bc03eb7e",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "31",
+        "name": "Tracktown IPA",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Offering a hop-heads paradise, this unfiltered Northwest-Style India Pale Ale introduces a big floral hop character to the aroma, flavor and finish. Hops, Hops, Hops from front to back but nicely offset with a malty richness that prevents this ale from being overbearing. Tracktown is made from 100% Floor Malted Maris Otter, 100% Northwest Amarillo Hops, Free Range Coastal Water, and absolutely No Chemicals, Additives, or Preservatives.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style India Pale Ale",
+        "abv": 7.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4211",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "9c2ca26b81c9a913134612464ecd92fa8df91f16",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Old Crustacean Barleywine 2005",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "809",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "196a7dda127e157a9a22b51126597c0ff6a715d8",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Old Crustacean Barleywine 1996",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "3583",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "c7782baa540ad5981556d34eec8ae5989144384d",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "67",
+        "name": "Half-E-Weizen",
+        "country": "United States",
+        "cat_id": "5",
+        "brewery_id": "1072",
+        "descript": "Half-e-Weizen (formerly Mo Ale), was inspired by, and dedicated to, Mo and Dutch Niemi, real people inspiring a real product. Mo was a restaurateur and raconteur whose clam chowder is world-famous; Dutch a leader by example for coastal fisherman. Together their spirit indelibly shapes the daily lives of the Newport, OR waterfront.\n\n\nHalf-e-Weizen is a refreshing, unfiltered fusion of wheat and Northwest Harrington malts, coriander, ginger, and Saaz hops in the Belgium style. Half-e-Weizen is available in the classic 22-ounce bottle and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Belgian and French Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Belgian-Style White",
+        "abv": 4.8000001907000005,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4183",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "01364e8aadf282b922dd53163c661a390ddebc31",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "26",
+        "name": "Roughstock Ale",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "a special bottle dedicated to Jim Steen, member of the Professional Rodeo Coyboys Association and rogue extrodinaire.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Pale Ale",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4195",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "1ae806d96df63e1f8aa9d8d06e101354bef6776c",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "32",
+        "name": "Imperial India Pale Ale / I2PA",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Above and beyond an India Pale Ale--I2PA is radically hopped with an intense aroma and hop bitterness. Unfiltered and aged for 9 months before it leaves the brewery--not for the faint of heart. I2PA is brewed with two-row Pipkin Pale malts, Saaz, Cascade and Northwest Golding hops. I2PA is available in a new 750ml Silkscreened black ceramic bottle and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Imperial or Double India Pale Ale",
+        "abv": 9.5,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4181",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "7683b8b236e86324235526c4167dfafd46b4a88d",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "33",
+        "name": "Imperial Red",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Imperial Red is the newest addition to Rogues award winning Imperial Family of XS products. The Imperial Red recipe originates from Rogues Eugene City Brewery and is being produced in Newport for distribution (note, initially during 2007 in kegs only to JLS accounts. A 750-ml ceramic swing-top bottle and 13.2 gallon kegs will be available in 2008.) Imperial Red has already garnered international acclaim and awards, including a Bronze Medal at the 2006 Great American Beer Festiva and recently it was named Grand Champion at the US Beer Tasting Championships! \n\n\nDeep copper chestnut color with toffee, brown sugar, nuts, and spice amomas. A rich supple entry leads to an off-dry medium body of tangy raisins and citrus marmalade, bittersweet chocolate, and mild spice flavors. It finishes with a long nutty, fruity fade. \n\n\nImperial Red is brewed with Crystal, Chocolate, Munich and two-row Pale Malts; Palisade and Aroma Crystal hops, Pacman Yeast, and Free Range Coastal Waters.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Amber/Red Ale",
+        "abv": 9.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4206",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "051efee34042696d00937666e7e068c7ec5c2574",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Charlie 1981",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "descript": "An unfiltered strong ale that is amber in color and has an intense piney hop aroma. The beer is named in honor of Charlie Papazian, president of the Association of Brewers, founder of the American Homebrewers Association and homebrewing guru. John Maier, Brewmaster for Rogue Ales, made his first batch of beer in 1981 using Papazians influential book \"The New Complete Joy of Homebrewing.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "srm": 0,
+        "state": "Oregon",
+        "style_id": "-1",
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "id": "4176",
+        "ibu": 0,
+        "abv": 8.5
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "767e73669e4a655015b3a0493267df39f9eee750",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Rogue Smoke",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "descript": "Rogue Smoke(previously known as Welkommen on draft) is a German style Rauchbier (Smoke Beer), which was inspired by the Fall of the Berlin Wall. Most rauch brews are bottom fermented, however Rogue Smoke, is top fermented. It is orange-amber in hue with a delicate smoke aroma and flavor with an intense hop finish.\n\n\nIn All About Beer, August, 1995 issue, Christopher Brooks writes \"Alder wood, indigenous to the Northwest, is the smoking agent, though a small amount of Bamberg malt is used in the mash, too. Beech is drier than alder, reports brewmaster John Maier, so we use a little of that for added complexity. Welkommen, a smoky, nutty ale, is also very dry, which given the 15 pounds of hops (perle and Saaz) added to each 15-barrel batch, is no surprise.\" The seven medals in nine years which Rogue Smoke won at theGreat American Beer Festival in Denver are also a tribute to this unusual brew.\n\n\nRogue Smoke is brewed with Great Western Harrington, Klages, Munich, Hugh Baird Crystal, Carastan (30-37 and 13-17), Chucks Alderwood Smoked Munich and Bamberg Beechwood Smoked malts; plus Perle and Saaz hops. Rogue Smoke is available in the classic 22-ounce seriograph bottle (replacing the older 7 ounce bottle) and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "4210",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 6.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "189f17ba22f20d45727f3e629f78e634cddc55a5",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Mocha Porter / New Porter",
+        "cat_name": "Irish Ale",
+        "country": "United States",
+        "cat_id": "2",
+        "brewery_id": "1072",
+        "descript": "Dedicated to the chocolate lover in each of us. Mocha Porter was once known as New Porter, in honor of the town of Newport, Oregon and home of Rogue Ales. The January/February 1995 issue of Mens Health magazine features a bottle of Rogue New Porter (todays Mocha Porter) in the Fifth Annual Collection of Good Advise, Health News, Dire Warnings, Notable Folks and Unsolicited Opinion. New Porter is described as the Best New Beer for 1994! The caption reads: \"Oh, Hoppy Day: For a beer- drinking experience order up a bottle of this microbrew from Oregon.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "srm": 0,
+        "state": "Oregon",
+        "style_name": "Porter",
+        "style_id": "25",
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "id": "4184",
+        "ibu": 0,
+        "abv": 5.3000001907
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "204a087fa7b0bb06c9836722beecaefc3506cfb4",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Morimoto Imperial Pilsner",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "descript": "Imperial Pilsner, part of the Morimoto Signature Series, was launched in September 2003. The beer was selected by internationally acclaimed Chef Masaharu Morimoto--a James Beard awarded chef and one of the stars of the Food Network series, Iron Chef. \n\n\nBrewed with four ingredients: 100% French Pilsner Malt, 100% Sterling Hops, Free Range Coastal Water and Czech Pilsner Yeast. Imperial Pilsner is golden in color with a dry hop floral aroma and intense hop bitterness supported by a big malty backbone. Available in a swing-top 750 mil ceramic bottle and 13.2 gallon sankey kegs.\n\nTo learn more about the Chef, visit Morimotos web page.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "4188",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 8.8000001907,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "c632df3567ebc57498783d408f3ca1345650dd6c",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "141",
+        "name": "Frosty Frog",
+        "country": "United States",
+        "cat_id": "11",
+        "brewery_id": "1072",
+        "descript": "A strong, but well balanced winter warmer, this ale has extreme complexity made for a holiday feast.  The addition of Raisins and Molasses in the brewing process produces unusual spiced rum like flavors to go along with the well balanced malt and hops.  \n\nNo Chemicals, Additives or Preservatives.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Other Style",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Winter Warmer",
+        "abv": 9.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4202",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "b5f54573d937dd75077c7bbe359b4f67a52f808c",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "31",
+        "name": "Yellow Snow IPA",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Yellow Snow IPA was originally introduced for the 2000 Winter Olympics in Salt Lake City.\n\n\nYellow Snow is Rogue\u00e2\u20ac\u2122s tribute to winter sports everywhere\u00e2\u20ac\u201ddownhill skiing, snowboarding, cross country, ice hockey, ice fishing, snowmobiling, and even curling. \n\n\nIt will be available November 1st in select states where mountains and snow can be found.\n\n\nPale golden in color with a hoppy fruity aroma. Big hop flavor up front complemented by medium body and hoppyness mid-pallet. Finishes with a characteristic lingering bitterness.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style India Pale Ale",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4993",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "14f66e136778c915436eda6565cad753c1129f63",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "121",
+        "name": "Morimoto Black Obi Soba Ale",
+        "country": "United States",
+        "cat_id": "11",
+        "brewery_id": "1072",
+        "descript": "The Morimoto Black Obi Soba Ale is part of the Rogue Ales Signature Series with internationally acclaimed Chef Masaharu Morimoto--a James Beard awarded chef and one of the stars of the Food Network series, Iron Chef. \n\n\nBlack Obi Soba Ale is dedicated to Phred Kaufmann, Rogues Distributor in Japan for the past decade--an International Rogue who runs Beer Inn Mugishutei in Sapporo (http://www.ezo-beer.com/index-e.html). Black Obi Soba is brewed with roasted buckwheat and malts (2-row pale, Munich, C-15, c-60 and Weyermann - note, this beer contains Gluten) providing a rich nut-laced flavor, while the 3 hop varieties (Horizon. Sterling and Cascade) blend to provide a refreshing zest. Morimoto Black Obi Soba Ale is packaged in a 22oz screened bottle and is available in select markets.\n\nTo learn more about the Chef, visit Morimotos web page.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Other Style",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Fruit Beer",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4187",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "a6757479d42adeec792e06cddef8edc57a3ef8be",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "35",
+        "name": "Old Crustacean Barleywine 2004",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "In Britain, seasonal brews for winter are high in alcohol, robust, malty, and dark. The two main styles of these brews are Old Ales and Barleywines. As the name suggests, barleywines are similar to wines in alcohol and need aging but are derived from grain, not the grape. Rogues barleywine is described by beer expert Stuart Ramsey as: \"A masterful, intense creation from brewer John Maier....it has achieved a depth and complexity usually associated with well-ages strong ales. I hope the brewery bottles some before it disappears.\" We call it the cognac of beers. An unfiltered and unfined Barleywine. Intense, robust, malty and dark. The cognac of beers. A hugh beer in a little bottle, this is a beer designed for sipping.\n\n\nOld Crustacean is brewed with eight ingredients, Great Western Harrington, Klages, Hugh Baird Carastan and Munich Malts, Chinook and Centennial Hops, free-range coastal water and PacMan yeast. Old Crustacean is best when aged for one year. Old Crustacean is available in a new 750-ml ceramic swingtop bottle (replacing the much older 7-ounce and more recent 12 ounce XS-line package) and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Barley Wine Ale",
+        "abv": 11.5,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4189",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "7a5063dbe1e7dc9585ee98e3b3e89908230b5c77",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "126",
+        "name": "Juniper Pale Ale",
+        "country": "United States",
+        "cat_id": "11",
+        "brewery_id": "1072",
+        "descript": "Juniper Pale Ale: the new package for Yellow Snow Ale (winter 2004/2005). While the recipe (a pale ale infused with whole juniper berries) on the label remain the same, the name and label are new for 2005. Juniper Pale Ale is available in the classic 22-ounce bottle and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Other Style",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Herb and Spice Beer",
+        "abv": 5.3000001907,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4182",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "7d3eb7126e507a4a58cef044fa617f597f1d3d9e",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Chipotle Ale",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "descript": "Dedicated to Spanish author Juan de la Cueva, who, in 1575, wrote of a an dish that combined seedless chipotles with beer: Chipotle Ale is based on Rogues American Amber Ale, but delicately spiced with smoked jalapeno (chipotle) chile peppers. Deep amber in color with a tight head, rich malty aroma, delicately smooth and crisp flavor, and subtle chipotle chili finish. Chipotle Ale is created from Northwest Harrington, Klages, and Maier Munich Malts; Willamette and Cascade hops; and Chipolte (smoked jalapeno) Peppers. Available in a 22-ounce (12/case), 12-ounce (24 loose/case) screened bottles, and on draft. Blend it with Rogue Chocolate Stout and create a Mole black and tan!",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "4177",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "63fb9ee2fea780493ad3b6c3c703781a1b9d01fc",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Jittery Frog",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "descript": "This special coffee stout includes NAFTA approved, organic, shade grown coffee beans from Costa Rica, Indonesia, and Ethiopia roasted by the brewmaster at local coffee roaster Red Twig in Edmonds, Wa.  Hints of your morning cup are evident in the aroma, flavor and finish of this breakfast beer (but not just for breakfast).  \n\nNo Chemicals, Additives or Preservatives.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "4207",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 6.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "c831bcd74b06119239056b6cec9beefd91300902",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Mogul Ale",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "descript": "Mogul is a complex blend of 5 malts and 7 hops. This years Mogul (12/05) will only get better with time...its a hedonistic mouthful with layers of rich malt and tremendous bitterness. A quote from John \"more hops\" Maier, \"Keep Warm, Drink Mogul ~ Prost!\" This batch of Mogul was brewed with Pale, Munich, Dark caramunich, Melanoidin, and Amber malts. \n\nMoguls hops include Newport, Amarillo, Chinook, Horizon, Cascade, Centennial and Crystal...and Mogul (12/05) is dry-hopped with Amarillo and Centennial at the rate of 1 pound per barrel! Oh Hoppy Day!",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "4185",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 6.25,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "0742d7799bf5bce6e073cb7528e4d8c0aedae074",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "38",
+        "name": "Monk Madness Ale",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Let us give praise to our maker and glory to his bounty by learning about beer.\" ~ Friar Tuck \n\nThe debut of Monk Madness began with the Johns Locker Stock draft program before being released to the Rogue Nation in the autumn of 2006 in 22-ounce bottles and kegs. Five layers of malt create a complex, slightly sweet flavor balanced by five different hop varieties. A versatile and robust ale, we recommend pairing this with spicy foods, stong cheeses, and/or with dessert. \n\n\nMonk Madness Ale is brewed with 12 ingredients: 2-row Pale, Belgian Munich, Belgian Special B, Weyermann Melonodon, and Amber Malts; Belgian Nobles, Chinook, Amarillo, Centennial, and Summit Hops; along with free-range coastal water and Rogues proproetary PacMan Yeast. Available in 22 ounce bottles and kegs. Note, Monk Madness was not brewed in the winter of 2007-2008 due to shortages of the speciality malts.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Brown Ale",
+        "abv": 7.4000000954,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4186",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "0cd1143b52037e4a5b70bb39865259fbbd1f5763",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "42",
+        "name": "Chocolate Stout",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "The recipe for Rogue Chocolate Stout was created several years ago for export to Japan. The exported twelve ounce Chocolate Bear Beer bottle label is in Kanji and features a teddy bear with a pink heart on his belly. Chocolate Stout was released for Valentines Day in 2001 in a twenty-two ounce bottle for the US market. The label features a Roguester (Sebbie Buhler) on the label. The bottled of Chocolate Stout is available on a very limited basis in the US, so get it while you can! \n\n\nHedonistic! Ebony in color with a rich creamy head. The mellow flavor of oats, chocolate malts, and real chocolate are balanced perfectly with the right amount of hops for a bittersweet finish. Chocolate Stout is brewed with 10 ingredients: Northwest Harrington and Klages, Crystal 135-165 and Beeston Chocolate Malts, Cascade Hops, Rolled Oats and Roasted Barley, Natural Chocolate Flavor, Free Range Coastal Waters and PacMan Yeast. Chocolate Stout is available year-round only in the classic 22-ounce bottle and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Stout",
+        "abv": 6.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4178",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "9ebe5882eb7bf644f436bbd86e7d02a28478f47b",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "121",
+        "name": "Morimoto Soba Ale",
+        "country": "United States",
+        "cat_id": "11",
+        "brewery_id": "1072",
+        "descript": "The Morimoto Soba Ale is part of the new Signature Series of Rogue Ales, launched in the Spring of 2003 with internationally acclaimed Chef Masaharu Morimoto--a James Beard awarded chef and one of the stars of the Food Network series, Iron Chef. \n\n\nSoba (also known as buckwheat) is not a type of wheat but a member of the rhubard family (a fruit, not a grain!) Soba has been a longtime staple of Japanese cuisine because of its nutritional value. Buckwheat is high in potassium, phosphorous, vitamin B (50 percent more than wheat) and protein, and its virtually fat-free. The fruits of buckwheat plant are like small beechnuts, which are milled to separate the edible groats from the dark brown hulls. The groats are then roasted and used more or less like a grain (a good example is Kasha).\n\n\nMorimoto Soba Ale is brewed with Roasted Buckwheat, Pale malt, Munich Malt, 13-17 Carastan Malt, and Crystal Hops. (Note, this beer contains Gluten.) The flavor is unique, toasty-nutty sensation with medium body and good hop bitterness. Morimoto Soba Ale is available in a 22 ounce silkscreened bottle and 13.2 gallon sankey kegs.\n\nTo learn more about the Chef, visit Morimotos web page.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Other Style",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Fruit Beer",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4190",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "a98eeba316e322a01989c95c764d017a9d75283e",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "42",
+        "name": "XS Imperial Stout",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Deserving the title \"Emperor of Ales\" (unlike the bourgeois \"King of Beers\"), Imperial is the strongest and fullest of all stouts. Imperials originally were brewed with large quantities of hops and a high alcohol content to withstand long, unrefrigerated journeys. Rogue Imperial Stout, considered the high end of stouts, is made of 2-row Great Western Harrington & Klages, Hugh Baird XLT-80, Black, Munich and Chocolate Malts; Willamette, Cascade and Chinook hops; rolled oats; and two secret ingredients. Unfiltered and unfined, Imperial Stout is best when aged for one year. Imperial Stout is available in a new 750-ml ceramic swing-top bottle (replacing the much older 7-ounce and more recent 12-ounce XS-line packaging) and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Stout",
+        "abv": 10.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4197",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "37104d4e91ae601a120633f8f9c03a7fd7907071",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Dry Hopped St. Rogue Red Ale",
+        "cat_name": "North American Ale",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "The Malt Advocate described Saint Rogue Red as \"An ale with great character and plenty of hops to satisfy. Full aromatic punch of caramel, citrus fruit and melon, with underlying fresh earth tones. Sweet caramel notes up front are quickly taken over by an array of fruit and hops bitterness that lingers into the night. A more adventurous ale than most.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "srm": 0,
+        "state": "Oregon",
+        "style_name": "American-Style Amber/Red Ale",
+        "style_id": "33",
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "id": "4171",
+        "ibu": 0,
+        "abv": 5.0999999046
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "e3b8ace5dfd900dda6645c0c41d4e163c500dd4a",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "42",
+        "name": "Shakespeare Stout",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Stout was first introduced by Guinness in Ireland as \"Extra Stout\" (a stronger version of their Porter). Later, the stronger Imperial and Double Stouts emerged. Sweet, Milk, and Oatmeal Stouts are English adaptations with less alcohol and less bitter then the dry Irish Stouts. Victorian England recognized Oatmeal Stouts nutritional value and it is traditionally the drink of choice for nursing mothers and athletes. It is a beer equally at home with oysters as it is with a homemade pizza and freshly tossed green salad (or as a float over ice cream).\n\n\nRogues Shakespeare Stout received a 99, the highest score of the 309 beers in 44 categories at the 1994 World Beer Championships. The June/July 1998 issue of Mens Journal included Rogue Ales Shakespeare Stout as one of \"The 100 Best Things to Eat in America.\"Based on Stuart Kallens book, \"The 50 Best Beers in the World\", Shakespeare Stout was ranked the third best beer in the world and best American Beer--which makes it the Worlds Best Stout!\n\n\nRogues Shakespeare Stout is ebony in color, a rich creamy head and a mellow chocolate aftertaste. It is made from Northwest Harrington, Crystal, and Chocolate malts, roasted barley and rolled oats, along with Cascade hop. Shakespeare Stout is available in the classic 22-ounce bottle, a commemorative 3-litre bottle with ceramic swing-top, and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Stout",
+        "abv": 6.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4193",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "1d350c5df774db742b519f37cb7dd200d8735c3a",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Dad's Little Helper",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "descript": "\"This aint your Dads malt liquor\" - Brewmaster John Maier \n\nAfter the death of his wife, Henry Jackson Smart was left to raise 6 young children alone. His courage, love, selflessness and dedication inspired his daughter, Sonora Smart Dodd, to organize the First Fathers Day on June 19th, 1910. In 1924 President Calvin Coolidge proclaimed the third Sunday in June as Fathers Day. President Nixon, in 1972, established it as a permanent day of national observance. \n\nDads is brewed with Harrington and Klages malts, Flaked Corn, Crystal Hops, Free Range Coastal Water, and Czech Pils Yeast. Available in the spring of 2005 in the classic 22-ounce Rogue micropiece.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "4201",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "2294d88ecda6d79d9063f6a9ccf8388802dfcb84",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "33",
+        "name": "American Amber Ale",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Tawny amber in color with a coffee aroma and tight head. A delicate roasted malt accent, generous use of hops and a smooth finish. American Amber, originally known as Ashland Amber (created at Rogues original brewpub in Ashland, Oregon which was destroyed by flooding several years ago), is created from Northwest Harrington and Klages, 95-115 and 135-165 Crystal Malts. Kent Golding and Cascade Hops. American Amber is available in a 22-ounce bottle, 12-ounce 6-pack (new for 2005), and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Amber/Red Ale",
+        "abv": 5.5999999046,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4173",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "ccc85dac54d0004f6df676efb3e841a5db90ca72",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "95",
+        "name": "Kells Irish Style Lager",
+        "country": "United States",
+        "cat_id": "8",
+        "brewery_id": "1072",
+        "descript": "In 1998 the McAleese Brothers, owners of Kells Irish Pubs in Portland, OR, Seattle, WA, and San Francisco, CA, wanted to make an American beer that would float Guinness. \n\n\nGerard and Patrick McAleese asked John Maier to create a beer with a green apple bite flavor profile. It took four batches to get it just right. John used acidulated malts imported from Europe to get the crisp, lemony/apple flavor the McAleese Brothers wanted. The bottle label reflects the McAleese family heritage, puctures the Kells Irish Pub logo, and a traditional Irish flutist. \n\n\nThe first Kells Irish Pub opened in Seattle in October 1983 in Post Alley, above the historic Pike Place Market. The restaurant will remind you of the Old Country with its warm, cozy atmosphere and traditional surroundings. Theres also a patio outside thats a great place to feel the breeze from the Puget Sound and the buzz from the Market. Kells has Seattles largest selection of Single Malt Scotch. \n\n\nThe Kells Irish Pub in Portland is a local landmark and has been named the #1 Irish Entertainment venue in America. Sit by the fire, belly up to the bar, check out the cigar room, and dont miss the St. Patricks Day Festival, the largest Irish Fest in Oregon. \n\n\nThe Pub in San Francisco is next to the historic North Beach neighborhood and reflects the Old World charm and hospitality the McAleese family brought with them from Ireland. \n\n\nKells Irish Lager has won world-wide acclaim by winning 8 medals from the World Beer Championship and a Gold Medal at the Australian International Beer Awards. \n\n\nKells Irish Lager is brewed with 7 ingredients: Great Western Pale, Crystal, Wheat and Acidulated Malts; Sterling Hops; Free Range COastal Water and Czech Pilsner Yeast.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Lager",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Lager",
+        "abv": 5.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4208",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "c47e5093b062128fc12fbfb45a54112f1ccfeeb3",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Old Crustacean Barleywine 1993",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "2219",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "bdf9a251b499e45975e6786ee7fd111f7fc36e8d",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "31",
+        "name": "Hoppy Frog",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "A Northwest Style IPA. Nice Balance of Malt and Hops, not too extreme in either direction. 2 Ingredients: Maris Otter Malt, Amarillo Hops.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style India Pale Ale",
+        "abv": 6.5,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4205",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "94882c19c23885ebaa8c0ac36a4a79484ee20fb1",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "77",
+        "name": "\u00c3\u0153ber Pilsner",
+        "country": "United States",
+        "cat_id": "7",
+        "brewery_id": "1072",
+        "descript": "A German style Pilsner, pale gold in color, medium bodied with a malty aroma and a crisp hop bitterness (100% Sterling hops). Uber Pils is brewed with three Great Western and two Weyermann malts, Czech Pils Yeast and Free Range Coastal Waters. UberFest Pils is available in the classic Rogue 22-ounce bottle and kegs, from late autumn through early spring. No Chemicals, Additives, or Preservatives",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "German Lager",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "German-Style Pilsener",
+        "abv": 5.1999998093,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4198",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "1ce6a7e922c9ef897e2620d2b758ae7e9206338a",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "37",
+        "name": "Oregon Golden Ale",
+        "country": "United States",
+        "cat_id": "3",
+        "brewery_id": "1072",
+        "descript": "Oregon Golden Ale is the original Rogue brew dating back to 1988 and the days of the old Ashland brewpub location (which was destroyed by a flood several years ago). Deep golden in color with a rich malty aroma. Delicately smooth and crisp flavor and an herbal finish. Oregon Golden Ale is created from Northwest Harrington and Klages, and Maier Munich Malts (18% speciality grains, .19 lbs grain per bottle). Kent Golding and Cascade hops. Oregon Golden Ale is available in a 22-ounce bottle (the 12-ounce 6-pack was phased out in early 2005), and on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "North American Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Golden or Blonde Ale",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4191",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "e697a77231a1f5f5ec384675f72654509a06691a",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "116",
+        "name": "Issaquah Bullfrog Ale",
+        "country": "United States",
+        "cat_id": "11",
+        "brewery_id": "1072",
+        "descript": "An American style wheat beer and an Issaquah Brewhouse origina. Light in color and body and served with a lemon, Bullfrog is crisp, refreshing and goes down easy. Take a flying leap!\n\n\nBullfrog Ale took the Silver Medal at the 2004 Great American Beer Festival in the American Wheat category.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Other Style",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Light American Wheat Ale or Lager",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4199",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "1cb0dfb23e8f3b50f43564b5eee2e811d0d72002",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "92",
+        "name": "Double Dead Guy Ale",
+        "country": "United States",
+        "cat_id": "7",
+        "brewery_id": "1072",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "German Lager",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "German-Style Doppelbock",
+        "abv": 9.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4994",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "a37840bef56bca30cff0fba6787b9e5a9af57bd1",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Brutal Bitter",
+        "cat_name": "British Ale",
+        "country": "United States",
+        "cat_id": "1",
+        "brewery_id": "1072",
+        "descript": "An imperial bitter style using exotic traditional floor malts, citrus hoppy flavor, stupendous hop aroma. Hedonistic!\"Mellow Beer Emboldened by Hops,\" Elaine Louies article in the New York TimesDining Out Section, (March 24, 1999) announced the release of latest Rogue elixir to be bottled. The article states that \"The newest beer of Rogue Ales sounds more aggressive than it is. Brutal Bitter is actually full-bodied, deeply flavored, intensely hoppy brew. There is nothing brutal about the rich, deep, mellow taste. Its crackling but not sharp... This beer may raise eyebrows, but it wont pucker lips. The aftertaste is clean.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "srm": 0,
+        "state": "Oregon",
+        "style_name": "Extra Special Bitter",
+        "style_id": "5",
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "id": "4175",
+        "ibu": 0,
+        "abv": 6.5
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "869adae9aee050a950e5c4de9bbf1ed8022bc2af",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "116",
+        "name": "Honey Orange Wheat",
+        "country": "United States",
+        "cat_id": "11",
+        "brewery_id": "1072",
+        "descript": "Honey Orange Wheat is an unfiltered wheat beer and has flavors of honey and orange balanced with a nice medium-sweet malt character. It is medium bodied with no harsh bitterness and a nice honey-orange finish. It is made from Northwest Two-Row and Wheat Malts; Willamette Hops; #48 Oregon Wildflower Honey, Orange Juice, and Free Range Coastal Waters. It is currently available on draft.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Other Style",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Light American Wheat Ale or Lager",
+        "abv": 0.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4204",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "cc74b8140fc9d8236ac0fb6548c40b0165497a6d",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Youngers Special Bitter",
+        "cat_name": "British Ale",
+        "country": "United States",
+        "cat_id": "1",
+        "brewery_id": "1072",
+        "descript": "Our original Rogue Ale, Youngers Special Bitter (affectionately nicknamed YSB) is a classic English Special Bitter named after Bill Younger of the infamous Horse Brass Pub in Portland, Oregon. The Malt Advocate described Youngers Special Bitter as \"rich and flavorful. A triad of caramel maltiness, fruitiness (apricots?), and hop bitterness in aroma and flavor. A fuller malt foundation than some other pale ales, with some background spiciness. Dry, hoppy finish.\" In the SouthWest Brewing News, Feb/March 1994 issue, George Fix wrote \"A strong case could be made for Rogue Ale being included among the top 5 ales brewed in the US.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "srm": 0,
+        "state": "Oregon",
+        "style_name": "Extra Special Bitter",
+        "style_id": "5",
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "id": "4213",
+        "ibu": 0,
+        "abv": 0.0
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "2e48c132313d98f529734799c5aa320bbe4951c6",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "61",
+        "name": "Menage Frog",
+        "country": "United States",
+        "cat_id": "5",
+        "brewery_id": "1072",
+        "descript": "Belgian Style Tripel using same Abbey Yeast. Monster aromas and sweet flavors coming from the yeast and a huge amount of Belgian Candi Sugar. Ingredients: Weyermann Pilsner Malt, Belgian Candi Sugar, Saaz Hops.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Belgian and French Ale",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "Belgian-Style Tripel",
+        "abv": 9.0,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4209",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "a7b087d896cff35002822b14f75c24d83ace1df9",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "name": "Old Crustacean Barleywine 2006",
+        "country": "United States",
+        "cat_id": "-1",
+        "brewery_id": "1072",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "id": "332",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "add_user": "0",
+        "abv": 11.5,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "ibu": 0,
+        "style_id": "-1"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}, {
+    "datasetid": "open-beer-database@public-us",
+    "recordid": "99ad6f6a7ade62fc074560c634af236ef953f4a7",
+    "fields": {
+        "website": "http://www.rogue.com",
+        "city": "Newport",
+        "style_id": "113",
+        "name": "Honey Cream Ale",
+        "country": "United States",
+        "cat_id": "11",
+        "brewery_id": "1072",
+        "descript": "Honey Cream Ale is fermented warm like traditional cream ales but features an added twist--wildflower honey from Oregon. Honey imparts a dry, refreshing character to the beer because it ferments almost completely. The honey comes from a beekeeper in Blodgett, a tiny town 20 miles east of Newport.\n\n\nRogues Honey Cream Ale is a light, smooth, medium bodied ale, with a creamy head, hints of honey and a crisp light finish. Brewed with two-row Harrington, Klages and Munich malts and Crystal hops. Discontined for distribution in late 2005, available on tap only at Rogue Ales Public Houses.",
+        "upc": 0,
+        "coordinates": [44.6202, -124.052],
+        "ibu": 0,
+        "cat_name": "Other Style",
+        "last_mod": "2010-07-22T22:00:00+02:00",
+        "state": "Oregon",
+        "style_name": "American-Style Cream Ale or Lager",
+        "abv": 5.5,
+        "address1": "2320 SE OSU Drive",
+        "name_breweries": "Rogue Ales",
+        "srm": 0,
+        "id": "4180",
+        "add_user": "0"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-124.052, 44.6202]
+    },
+    "record_timestamp": "2016-09-26T06:21:38.074+02:00"
+}]
