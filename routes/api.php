@@ -32,6 +32,7 @@ Route::group(['middleware' => 'api'], function () {
 
     Route::get('tables', 'App\Http\Controllers\TableController@index')->name('tables');
     Route::post('tables', 'App\Http\Controllers\TableController@store')->name('tables.create');
+    Route::delete('tables/{id}', 'App\Http\Controllers\TableController@delete')->name('tables.delete');
 
     // employees routes
 
